@@ -1,1 +1,1 @@
-# Ramble-Linux-Kernel、、
+# Ramble-Linux-Kernel
